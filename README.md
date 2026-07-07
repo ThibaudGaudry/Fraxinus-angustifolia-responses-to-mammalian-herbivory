@@ -4,6 +4,12 @@ This repository contains data and scripts for data analyses performed for the pu
 
 ## Summary
 
+Short abstract here
+
 ## Data
 
+describe briefly datasets
+
 ## Data analysis
+
+describe briefly scripts
