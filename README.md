@@ -11,8 +11,8 @@ Chemical and structural leaf-level traits suggested a tolerance strategy. We fou
 ## Data
 
 1. chemical_traits.csv contains data for phenols and tannins concentration in leaves
-2. data/structural_leaf_traits.csv contains data for leaf area, leaf mass per area and leaf dry matter content
-3. data/architectural_traits.csv contains data for branch density, the number of trunk reiterates, bite size index, presence of C3 axes and sexual organs
+2. structural_leaf_traits.csv contains data for leaf area, leaf mass per area and leaf dry matter content
+3. architectural_traits.csv contains data for branch density, the number of trunk reiterates, bite size index, presence of C3 axes and sexual organs
 
 ## Data analysis
 
