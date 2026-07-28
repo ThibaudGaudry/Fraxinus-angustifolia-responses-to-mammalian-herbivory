@@ -14,8 +14,8 @@ Chemical and structural leaf-level traits suggested a tolerance strategy. We fou
 
 2. structural_leaf_traits.csv contains data for leaf area, leaf mass per area and leaf dry matter content
 
-3. architectural_traits.csv contains data for branch density, the number of trunk reiterates, bite size index, presence of C3 axes and sexual organs
-   Description of columns:
+3. architectural_traits.csv contains data for branch density, the number of trunk reiterates, bite size index, presence of C3 axes and sexual organs.
+Description of columns:
    - 'Treatment' is coded as C for control, unbrowsed individuals; and H for 'herbivory', browsed individuals
    - 'mass_bite' is the preleved biomass (in g) by the experimenter bite that is further used to compute the bite size index. See Wigley _et al._ (2020) for the detailed protocol (doi.org/10.1071/BT20048_CO)
    - 'height' and 'circ' are tree height at the highest point of the canopy, and trunk circumference at the base of the trunk. Both are expressed in cm
