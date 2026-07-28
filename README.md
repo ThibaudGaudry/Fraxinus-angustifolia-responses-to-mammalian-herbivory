@@ -1,6 +1,6 @@
 # Fraxinus-angustifolia-responses-to-mammalian-herbivory
 
-This repository contains data and scripts for data analyses performed for the publication: 'The architectural response of a mediterranean tree to mammalian browsing overwhelms the leaf's chemical and structural responses' by Barral, Bochu, Caries, Gaudry, Lecoq, Lo Bue _et al._, [year] (doi)
+This repository contains data and scripts for data analyses performed for the publication: 'The architectural response of a mediterranean tree to mammalian browsing overwhelms the leaf's chemical and structural responses' by Barral, Bochu, Caries, Gaudry, Lecoq, Lo Bue _et al._ [(year)] (doi).
 
 ## Summary
 
